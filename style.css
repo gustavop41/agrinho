@@ -1,1 +1,33 @@
-img{ width: 600px;}
+.agrinho{
+     background-color: rgb(165, 253, 0);
+     color: rgb(0, 0, 0);
+     text-align: center;
+     align-items: center;
+    border-color: rgb(0, 255, 170);
+   
+    }
+    .agrinh{
+     background-color: rgb(3, 174, 253);
+     color: rgb(255, 255, 255);
+     text-align: center;
+     align-items: center;
+    border-color: rgb(0, 255, 170);
+    }
+    .agrin{
+     background-color: rgb(250, 246, 0);
+     color: rgb(18, 212, 247);
+     text-align: center;
+     align-items: center;
+    border-color: rgb(0, 255, 170);
+    }
+    .agri{
+     background-color: rgb(5, 255, 201);
+     color: rgb(0, 0, 0);
+     text-align: center;
+     align-items: center;
+    border-color: rgb(0, 255, 170);
+    }
+    a{
+    font-size: 50px;
+     .Tratores{
+    background-color: rgb(255, 255, 255);}}
